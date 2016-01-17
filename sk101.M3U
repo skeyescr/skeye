@@ -55,10 +55,47 @@ http://ispace.ddns.net:80/kimbox/123456789/1888.ch
 http://ispace.ddns.net:80/kimbox/123456789/1883.ch
 #EXTINF:-1,Animal Planet HD
 http://ispace.ddns.net:80/kimbox/123456789/1061.ch
+#EXTINF:-1,ART.AFLAM1
+http://iptv80.ddns.net:9070/live/karimos/skype88/1175.m3u8
+#EXTINF:-1,ART.AFLAM2
+http://iptv80.ddns.net:9070/live/karimos/skype88/1176.m3u8
+#EXTINF:-1,AR:Nile.Life
+http://iptv80.ddns.net:9070/live/karimos/skype88/1165.m3u8
+#EXTINF:-1,AR:Nile.Comedy
+http://iptv80.ddns.net:9070/live/karimos/skype88/1166.m3u8
+#EXTINF:-1,AR:Nile.Cinema
+http://iptv80.ddns.net:9070/live/karimos/skype88/1167.m3u8
+#EXTINF:-1,AR:MBC 1
+http://iptv80.ddns.net:9070/live/karimos/skype88/1162.m3u8
+#EXTINF:-1,ARABE MBC 2
+http://iptv80.ddns.net:9070/live/karimos/skype88/1045.m3u8
+#EXTINF:-1,AR-ZEE ALWAN HD
+http://iptv80.ddns.net:9070/live/karimos/skype88/1048.m3u8
+#EXTINF:-1,AR-ZEE AFLAM HD
+http://iptv80.ddns.net:9070/live/karimos/skype88/1120.m3u8
+#EXTINF:-1,AR-ROTANAAFLAM
+http://iptv80.ddns.net:9070/live/karimos/skype88/1213.m3u8
+#EXTINF:-1,AR-Rotana-khalejia
+http://iptv80.ddns.net:9070/live/karimos/skype88/1212.m3u8
+#EXTINF:-1,AR-Rotana-classic
+http://iptv80.ddns.net:9070/live/karimos/skype88/1210.m3u8
+#EXTINF:-1,AR-Rotana
+http://iptv80.ddns.net:9070/live/karimos/skype88/1208.m3u8
+
+#EXTINF:-1,AR:Arriadia
+http://iptv80.ddns.net:9070/live/karimos/skype88/1171.m3u8
+#EXTINF:-1,ARABE Mbc4 -
+http://iptv80.ddns.net:9070/live/karimos/skype88/1046.m3u8
+#EXTINF:-1,ARABE MBC Action HD
+http://iptv80.ddns.net:9070/live/karimos/skype88/1044.m3u8
+#EXTINF:-1,aljazeera
+http://iptv80.ddns.net:9070/live/karimos/skype88/1174.m3u8
+#EXTINF:-1,alikhbarya
+http://iptv80.ddns.net:9070/live/karimos/skype88/1173.m3u8
+#EXTINF:-1,alarabiya
+http://iptv80.ddns.net:9070/live/karimos/skype88/1172.m3u8
 #EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,n aljazeera
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 #EXTINF:-1,i24 News Arabia
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 #EXTINF:-1 group-title=”ARABIC”,AL HADATH
