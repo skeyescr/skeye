@@ -55,7 +55,12 @@ http://ispace.ddns.net:80/kimbox/123456789/1888.ch
 http://ispace.ddns.net:80/kimbox/123456789/1883.ch
 #EXTINF:-1,Animal Planet HD
 http://ispace.ddns.net:80/kimbox/123456789/1061.ch
-
+#EXTINF:-1,Alarabiya
+ http://europe-iptv.no-ip.org:16000/live/abdelilah/444444/421.ts
+#EXTINF:-1,aljazeera_ara_high
+ http://europe-iptv.no-ip.org:16000/live/abdelilah/444444/619.ts
+#EXTINF:-1,Al Jazeera Mubasher
+ http://europe-iptv.no-ip.org:16000/live/abdelilah/444444/642.ts
 #EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1,i24 News Arabia
