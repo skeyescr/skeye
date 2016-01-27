@@ -88,23 +88,7 @@ http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1 group-title=”ARABIC”,MBC HD
 http://87.248.160.8/edge/smil:mbc/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,mbc masr
-http://178.33.88.129:888/udp/239.102.0.45:1234
-#EXTINF:-1 group-title=”ARABIC”,MBC MAX2
-http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-1 group-title=”ARABIC”,MBC PROSPORT1
-http://intigral_live-lh.akamaihd.net/i/DPS3SPLITDXRAD150315_1@129126/index_512_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=”ARABIC”,MBC PROSPORT2
-http://intigral_live-lh.akamaihd.net/i/DPS3SPLFTHXTWN070315_1@129126/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=”ARABIC”,MBC_ACTION 2
-http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
-#EXTINF:-1,BAHRIN
-rtmp://alayam.netromedia.net/btv2 playpath=btv2 swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.18.swf pageUrl=http://player.netromedia.com/?ID=4d0292f1-e996-4dff-bdcd-01bf49aea468&iframe=true&autoPlay=true&scaling=scale
-
-
-#EXTINF:-1,CBC DRAMA
-http://185.5.222.231:4242/bysid/5107
 
 #EXTINF:-1,Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
