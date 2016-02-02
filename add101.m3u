@@ -13,7 +13,7 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
 #EXTINF:-1, HOT SHOTS
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
 #EXTINF:-1, Jasmin
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+http://37.187.125.57:8000/live/skype/smail-boino/82.ts
 #EXTINF:-1, Jasmin TV HD
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1, private
