@@ -1,5 +1,16 @@
 #EXTM3U
-
+#EXTINF:-1,LBC
+http://srvs.topiptv.org:8000/live/salman/salman/75.ts
+#EXTINF:-1,MTV Lebanon
+http://srvs.topiptv.org:8000/live/salman/salman/260.ts
+#EXTINF:-1,Future TV
+http://srvs.topiptv.org:8000/live/salman/salman/76.ts
+#EXTINF:-1,OTV
+http://srvs.topiptv.org:8000/live/salman/salman/42.ts
+#EXTINF:-1,Aljadeed
+http://srvs.topiptv.org:8000/live/salman/salman/152.ts
+#EXTINF:-1,Al Manar
+http://srvs.topiptv.org:8000/live/salman/salman/160.ts
 #EXTINF:-1,Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1,Dubai ONE
