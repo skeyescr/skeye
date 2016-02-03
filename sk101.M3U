@@ -77,8 +77,18 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1,Sky news arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
 
-
-
+#EXTINF:-1,LBC
+http://srvs.topiptv.org:8000/live/salman/salman/75.ts
+#EXTINF:-1,MTV Lebanon
+http://srvs.topiptv.org:8000/live/salman/salman/260.ts
+#EXTINF:-1,Future TV
+http://srvs.topiptv.org:8000/live/salman/salman/76.ts
+#EXTINF:-1,OTV
+http://srvs.topiptv.org:8000/live/salman/salman/42.ts
+#EXTINF:-1,Aljadeed
+http://srvs.topiptv.org:8000/live/salman/salman/152.ts
+#EXTINF:-1,Al Manar
+http://srvs.topiptv.org:8000/live/salman/salman/160.ts
 #EXTINF:-1 group-title=”ARABIC”,MBC 2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 #EXTINF:-1 group-title=”ARABIC”,MBC 4
