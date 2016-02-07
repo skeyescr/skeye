@@ -10,8 +10,7 @@ http://185.5.222.227:4242/bysid/5609
 
 #EXTINF:-1 group-title=”ARABIC”,Rotana Cinema EGY
 http://185.5.222.227:4242/bysid/5607
-#EXTINF:-1 group-title=”ARABIC”,ROTANA CLASIC
-http://178.33.88.130:888/udp/239.102.0.187:1234
+
 #EXTINF:-1 group-title=”ARABIC”,Rotana Classic
 http://185.5.222.227:4242/bysid/5605
 #EXTINF:-1 group-title=”ARABIC”,Rotana Clip
