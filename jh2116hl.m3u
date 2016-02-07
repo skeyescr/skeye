@@ -57,7 +57,7 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1,DW Arabia (Germany)
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1,Alarabiya
-http://europe-iptv.no-ip.org:16000/live/abdelilah/444444/421.ts
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8 
 #EXTINF:-1,aljazeera_ara_high
 http://europe-iptv.no-ip.org:16000/live/abdelilah/444444/619.ts
 #EXTINF:-1,Al Jazeera Mubasher
