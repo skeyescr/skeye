@@ -1,26 +1,5 @@
 
 #EXTM3U
-#EXTINF:0,ARABIA:BEIN SPORT 1 HD
-http://bit.do/iptvsportt1
-#EXTINF:0,ARABIA:BEIN SPORT 2 HD
-http://bit.do/iptvsportt2
-#EXTINF:0,ARABIA:BEIN SPORT 3 HD
-http://bit.do/iptvsportt3
-#EXTINF:0,ARABIA:BEIN SPORT 4 HD
-http://bit.do/iptvsportt4
-#EXTINF:0,ARABIA:BEIN SPORT 5 HD
-http://bit.do/iptvsportt5
-#EXTINF:0,ARABIA:BEIN SPORT 6 HD
-http://bit.do/iptvsportt6
-#EXTINF:0,ARABIA:BEIN SPORT 7 HD
-http://bit.do/iptvsportt7
-#EXTINF:0,ARABIA:BEIN SPORT 8 HD
-http://bit.do/iptvsportt8
-#EXTINF:0,ARABIA:BEIN SPORT 9 HD
-http://bit.do/iptvsportt9
-#EXTINF:-1,beinHD_Sports_HD10
-http://bit.do/iptvsportt10
-
 
 #EXTINF:-1,Alarabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8 
