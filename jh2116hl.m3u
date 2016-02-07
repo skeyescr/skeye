@@ -1,7 +1,7 @@
 #EXTM3U
+
 #EXTINF:-1 group-title=”ARABIC”,Halab Today TV
 rtmp://streaming.tootvs.com/8010/8010
-
 
 #EXTINF:-1 group-title=”ARABIC”,Rotana
 http://185.5.222.227:4242/bysid/5601
@@ -125,8 +125,7 @@ http://178.33.88.130:888/udp/239.102.0.196:1234
 http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
 #EXTINF:-1 group-title=”ARABIC”,Addounia TV
 rtmp://sama-tv.net/live/samatv
-#EXTINF:-1 group-title=”ARABIC”,ADJYAL
-http://178.33.88.130:888/udp/239.102.0.218:1234
+
 #EXTINF:-1 group-title=”ARABIC”,AGHANINA
 http://178.33.88.130:888/udp/239.102.0.217:1234
 #EXTINF:-1 group-title=”ARABIC”,AGYAL
@@ -141,8 +140,7 @@ http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 #EXTINF:-1 group-title=”ARABIC”,AL FADY
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
-#EXTINF:-1 group-title=”ARABIC”,Al Falstiniah TV
-rtmp://46.43.64.166/flv/flv
+
 #EXTINF:-1 group-title=”ARABIC”,AL FORAT
 http://alforatlive.nanocdn.com:1935/live/alforat256/BratuMarian.m3u8
 #EXTINF:-1 group-title=”ARABIC”,AL HADATH
@@ -165,24 +163,14 @@ http://212.7.205.5:1935/Iraqia/live/BratuMarian.m3u8
 http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
 #EXTINF:-1 group-title=”ARABIC”,IRINN
 http://63.237.48.3/ios/IRINN/IRINN.m3u8
-#EXTINF:-1 group-title=”ARABIC”,JORDAN
-rtmp://64.251.14.168/jorlive/jrtv
-#EXTINF:-1 group-title=”ARABIC”,KABE TV
-rtmp://ib12.islambox.tv/live/scqur?key=A684B24820F55A44990C5EABE95CF88F7C1EFAA45C6BBF54D19568A9C9A449F3timeout=20
+
 #EXTINF:-1 group-title=”ARABIC”,KABE TV
 http://46.245.160.224/mekke/mekke/playlist.m3u8
 #EXTINF:-1 group-title=”ARABIC”,KAS
 http://137.135.64.32:1935/kas/kas/BratuMarian.m3u8
 #EXTINF:-1 group-title=”ARABIC”,KATAR
 rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv
-#EXTINF:-1 group-title=”ARABIC”,KOKI (KIDS)
-http://178.33.88.130:888/udp/239.102.0.143:1234
-#EXTINF:-1 group-title=”ARABIC”,KUWAIT PLUS
-rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
-#EXTINF:-1 group-title=”ARABIC”,LBC
-http://178.33.88.130:888/udp/239.102.0.182:1234
-#EXTINF:-1 group-title=”ARABIC”,LIBYA 2
-http://173.224.120.161:1935/live/myStream/gmswf.m3u8
+
 #EXTINF:-1 group-title=”ARABIC”,LIBYA TV
 http://ift.tt/1G9kX1S
 #EXTINF:-1 group-title=”ARABIC”,LIVING 2
