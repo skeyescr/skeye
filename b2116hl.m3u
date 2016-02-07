@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title=”ARABIC”,Halab Today TV
+rtmp://streaming.tootvs.com/8010/8010
 
 #EXTINF:-1 group-title=”ARABIC”,Rotana
 http://185.5.222.227:4242/bysid/5601
