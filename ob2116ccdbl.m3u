@@ -22,18 +22,104 @@ http://185.5.222.227:4242/bysid/5604
 http://185.5.222.227:4242/bysid/5606
 
 
-#EXTINF:-1,LBC
-http://srvs.topiptv.org:8000/live/salman/salman/75.ts
-#EXTINF:-1,MTV Lebanon
-http://srvs.topiptv.org:8000/live/salman/salman/260.ts
-#EXTINF:-1,Future TV
-http://srvs.topiptv.org:8000/live/salman/salman/76.ts
-#EXTINF:-1,OTV
-http://srvs.topiptv.org:8000/live/salman/salman/42.ts
-#EXTINF:-1,Aljadeed
-http://srvs.topiptv.org:8000/live/salman/salman/152.ts
-#EXTINF:-1,Al Manar
-http://srvs.topiptv.org:8000/live/salman/salman/160.ts
+#EXTINF:-1,mbc 1
+http://5.189.179.242:16000/live/akram/HmmqX4aNCP/661.ts
+#EXTINF:-1,France 24 AR
+http://5.189.179.242:16000/live/akram/HmmqX4aNCP/637.ts
+#EXTINF:-1,first_tv
+http://5.189.179.242:16000/live/akram/HmmqX4aNCP/629.ts
+#EXTINF:-1,Echorouk
+http://5.189.179.242:16000/live/akram/HmmqX4aNCP/641.ts
+#EXTINF:-1,DW Arabic
+http://5.189.179.242:16000/live/akram/HmmqX4aNCP/640.ts
+#EXTINF:-1,BBC Arabic
+http://5.189.179.242:16000/live/akram/HmmqX4aNCP/639.ts
+#EXTINF:-1,art_cinema
+http://5.189.179.242:16000/live/akram/HmmqX4aNCP/673.ts
+#EXTINF:-1,art_aflam_2
+http://5.189.179.242:16000/live/akram/HmmqX4aNCP/672.ts
+#EXTINF:-1,art_aflam_1
+http://5.189.179.242:16000/live/akram/HmmqX4aNCP/671.ts
+#EXTINF:-1,al_moustakilla
+http://5.189.179.242:16000/live/akram/HmmqX4aNCP/627.ts
+#EXTINF:-1,aljazeera_ara_high
+http://5.189.179.242:16000/live/akram/HmmqX4aNCP/619.ts
+#EXTINF:-1,Alhurra
+http://5.189.179.242:16000/live/akram/HmmqX4aNCP/645.ts
+#EXTINF:-1,Alarabiya
+http://5.189.179.242:16000/live/akram/HmmqX4aNCP/421.ts
+#EXTINF:-1,Al Jazeera Mubasher
+http://5.189.179.242:16000/live/akram/HmmqX4aNCP/642.ts
+#EXTINF:-1,Al Ekhbariya
+http://5.189.179.242:16000/live/akram/HmmqX4aNCP/644.ts
+#EXTINF:-1, SKY SPORTS 1
+http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1.ts
+#EXTINF:-1, SKY SPORTS 2
+http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/2.ts
+#EXTINF:-1, SKY SPORTS 3
+http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/3.ts
+#EXTINF:-1, SKY SPORTS 4
+http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/4.ts
+#EXTINF:-1, SKY SPORTS 5
+http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/5.ts
+#EXTINF:-1, SKY SPORTS F1
+http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/6.ts
+#EXTINF:-1, SKY SPORTS NEWS
+http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/7.ts
+#EXTINF:-1, ESPN
+http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/8.ts
+#EXTINF:-1,FOX
+http://217.199.128.114:4022/udp/235.255.1.78:5614
+#EXTINF:-1,OBN
+http://217.199.128.114:4022/udp/235.255.1.34:5254
+#EXTINF:-1,RT DOC
+http://217.199.128.114:4022/udp/235.255.1.36:5254
+#EXTINF:-1,RTL 2 TELEVIZIJA
+http://217.199.128.114:4022/udp/235.255.1.33:5224
+#EXTINF:-1,LOV I RIBOLOV
+http://217.199.128.114:4022/udp/235.255.1.32:5214
+#EXTINF:-1,SK 2
+http://217.199.128.114:4022/udp/235.255.1.31:5204
+#EXTINF:-1,SVET PLUS
+http://217.199.128.114:4022/udp/235.255.1.38:5274
+#EXTINF:-1,OTV VALENTINO
+http://217.199.128.114:4022/udp/235.255.1.39:5284
+#EXTINF:-1,RTRS
+http://217.199.128.114:4022/udp/235.255.1.40:5294
+#EXTINF:-1,FASHION
+http://217.199.128.114:4022/udp/235.255.1.41:5304
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://217.199.128.114:4022/udp/235.255.1.42:5314
+#EXTINF:-1,NAT GEO WILD
+http://217.199.128.114:4022/udp/235.255.1.43:5324
+#EXTINF:-1,HISTORY CHANNEL
+http://217.199.128.114:4022/udp/235.255.1.45:5334
+#EXTINF:-1,TRAVEL CHANNEL
+http://217.199.128.114:4022/udp/235.255.1.47:5344
+#EXTINF:-1,HRT 3
+http://217.199.128.114:4022/udp/235.255.1.48:5354
+#EXTINF:-1,DISCOVERY
+http://217.199.128.114:4022/udp/235.255.1.49:5364
+#EXTINF:-1,EUROSPORT
+http://217.199.128.114:4022/udp/235.255.1.50:5374
+#EXTINF:-1,EUROSPORT 2
+http://217.199.128.114:4022/udp/235.255.1.51:5384
+#EXTINF:-1,SK 1
+http://217.199.128.114:4022/udp/235.255.1.52:5394
+#EXTINF:-1,ANIMAL PLANET
+http://217.199.128.114:4022/udp/235.255.1.53:5404
+#EXTINF:-1,FOX LIFE
+http://217.199.128.114:4022/udp/235.255.1.54:5414
+#EXTINF:-1,FOX CRIME
+http://217.199.128.114:4022/udp/235.255.1.55:5424
+#EXTINF:-1,TV1000
+http://217.199.128.114:4022/udp/235.255.1.56:5434
+#EXTINF:-1,CBS DRAMA
+http://217.199.128.114:4022/udp/235.255.1.57:5444
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://217.199.128.114:4022/udp/235.255.1.58:5454
+#EXTINF:-1,CARTOON NETWORK
+http://217.199.128.114:4022/udp/235.255.1.59:5464
 #EXTINF:-1,Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1,Dubai ONE
@@ -273,6 +359,3 @@ http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m
 
 #EXTINF:-1,Talaqie
 rtmp://82.137.248.20/Talaqie/TalaqieLive2
-
-
-
