@@ -22,70 +22,13 @@ http://185.5.222.227:4242/bysid/5604
 http://185.5.222.227:4242/bysid/5606
 
 
-#EXTINF:-1,mbc 1
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/661.ts
-#EXTINF:-1,France 24 AR
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/637.ts
-#EXTINF:-1,first_tv
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/629.ts
-#EXTINF:-1,Echorouk
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/641.ts
-#EXTINF:-1,DW Arabic
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/640.ts
-#EXTINF:-1,BBC Arabic
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/639.ts
-#EXTINF:-1,art_cinema
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/673.ts
-#EXTINF:-1,art_aflam_2
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/672.ts
-#EXTINF:-1,art_aflam_1
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/671.ts
-#EXTINF:-1,al_moustakilla
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/627.ts
-#EXTINF:-1,aljazeera_ara_high
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/619.ts
-#EXTINF:-1,Alhurra
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/645.ts
-#EXTINF:-1,Alarabiya
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/421.ts
-#EXTINF:-1,Al Jazeera Mubasher
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/642.ts
-#EXTINF:-1,Al Ekhbariya
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/644.ts
-#EXTINF:-1, SKY SPORTS 1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1.ts
-#EXTINF:-1, SKY SPORTS 2
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/2.ts
-#EXTINF:-1, SKY SPORTS 3
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/3.ts
-#EXTINF:-1, SKY SPORTS 4
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/4.ts
-#EXTINF:-1, SKY SPORTS 5
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/5.ts
-#EXTINF:-1, SKY SPORTS F1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/6.ts
-#EXTINF:-1, SKY SPORTS NEWS
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/7.ts
-#EXTINF:-1, ESPN
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/8.ts
 #EXTINF:-1,FOX
 http://217.199.128.114:4022/udp/235.255.1.78:5614
 #EXTINF:-1,OBN
 http://217.199.128.114:4022/udp/235.255.1.34:5254
 #EXTINF:-1,RT DOC
 http://217.199.128.114:4022/udp/235.255.1.36:5254
-#EXTINF:-1,RTL 2 TELEVIZIJA
-http://217.199.128.114:4022/udp/235.255.1.33:5224
-#EXTINF:-1,LOV I RIBOLOV
-http://217.199.128.114:4022/udp/235.255.1.32:5214
-#EXTINF:-1,SK 2
-http://217.199.128.114:4022/udp/235.255.1.31:5204
-#EXTINF:-1,SVET PLUS
-http://217.199.128.114:4022/udp/235.255.1.38:5274
-#EXTINF:-1,OTV VALENTINO
-http://217.199.128.114:4022/udp/235.255.1.39:5284
-#EXTINF:-1,RTRS
-http://217.199.128.114:4022/udp/235.255.1.40:5294
+
 #EXTINF:-1,FASHION
 http://217.199.128.114:4022/udp/235.255.1.41:5304
 #EXTINF:-1,NATIONAL GEOGRAPHIC
@@ -96,8 +39,7 @@ http://217.199.128.114:4022/udp/235.255.1.43:5324
 http://217.199.128.114:4022/udp/235.255.1.45:5334
 #EXTINF:-1,TRAVEL CHANNEL
 http://217.199.128.114:4022/udp/235.255.1.47:5344
-#EXTINF:-1,HRT 3
-http://217.199.128.114:4022/udp/235.255.1.48:5354
+
 #EXTINF:-1,DISCOVERY
 http://217.199.128.114:4022/udp/235.255.1.49:5364
 #EXTINF:-1,EUROSPORT
@@ -155,7 +97,7 @@ http://37.187.24.177:80/faker/faker/707.ch
 #EXTINF:-1,beinHD_Sports_HD10
 http://37.187.24.177:80/faker/faker/708.ch
 
-EXTINF:-1,Alarabiya
+#EXTINF:-1,Alarabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8 
 #EXTINF:-1,aljazeera_ara_high
 http://europe-iptv.no-ip.org:16000/live/abdelilah/444444/619.ts
@@ -380,6 +322,4 @@ http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m
 
 #EXTINF:-1,Talaqie
 rtmp://82.137.248.20/Talaqie/TalaqieLive2
-
-
 
