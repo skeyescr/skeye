@@ -22,52 +22,6 @@ http://185.5.222.227:4242/bysid/5604
 http://185.5.222.227:4242/bysid/5606
 
 
-#EXTINF:-1,mbc 1
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/661.ts
-#EXTINF:-1,France 24 AR
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/637.ts
-#EXTINF:-1,first_tv
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/629.ts
-#EXTINF:-1,Echorouk
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/641.ts
-#EXTINF:-1,DW Arabic
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/640.ts
-#EXTINF:-1,BBC Arabic
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/639.ts
-#EXTINF:-1,art_cinema
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/673.ts
-#EXTINF:-1,art_aflam_2
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/672.ts
-#EXTINF:-1,art_aflam_1
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/671.ts
-#EXTINF:-1,al_moustakilla
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/627.ts
-#EXTINF:-1,aljazeera_ara_high
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/619.ts
-#EXTINF:-1,Alhurra
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/645.ts
-#EXTINF:-1,Alarabiya
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/421.ts
-#EXTINF:-1,Al Jazeera Mubasher
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/642.ts
-#EXTINF:-1,Al Ekhbariya
-http://5.189.179.242:16000/live/akram/HmmqX4aNCP/644.ts
-#EXTINF:-1, SKY SPORTS 1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1.ts
-#EXTINF:-1, SKY SPORTS 2
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/2.ts
-#EXTINF:-1, SKY SPORTS 3
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/3.ts
-#EXTINF:-1, SKY SPORTS 4
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/4.ts
-#EXTINF:-1, SKY SPORTS 5
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/5.ts
-#EXTINF:-1, SKY SPORTS F1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/6.ts
-#EXTINF:-1, SKY SPORTS NEWS
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/7.ts
-#EXTINF:-1, ESPN
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/8.ts
 #EXTINF:-1,FOX
 http://217.199.128.114:4022/udp/235.255.1.78:5614
 #EXTINF:-1,OBN
