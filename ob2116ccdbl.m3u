@@ -134,6 +134,27 @@ http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1,DW Arabia (Germany)
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-1,beinHD_Sports_HD1
+http://37.187.24.177:80/faker/faker/699.ch
+#EXTINF:-1,beinHD_Sports_HD2
+http://37.187.24.177:80/faker/faker/700.ch
+#EXTINF:-1,beinHD_Sports_HD3
+http://37.187.24.177:80/faker/faker/701.ch
+#EXTINF:-1,beinHD_Sports_HD4
+http://37.187.24.177:80/faker/faker/702.ch
+#EXTINF:-1,beinHD_Sports_HD5
+http://37.187.24.177:80/faker/faker/703.ch
+#EXTINF:-1,beinHD_Sports_HD6
+http://37.187.24.177:80/faker/faker/704.ch
+#EXTINF:-1,beinHD_Sports_HD7
+http://37.187.24.177:80/faker/faker/705.ch
+#EXTINF:-1,beinHD_Sports_HD8
+http://37.187.24.177:80/faker/faker/706.ch
+#EXTINF:-1,beinHD_Sports_HD9
+http://37.187.24.177:80/faker/faker/707.ch
+#EXTINF:-1,beinHD_Sports_HD10
+http://37.187.24.177:80/faker/faker/708.ch
+
 #EXTINF:-1,Alarabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8 
 #EXTINF:-1,aljazeera_ara_high
