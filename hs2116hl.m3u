@@ -24,38 +24,6 @@ http://185.5.222.227:4242/bysid/5606
 
 
 
-#EXTINF:-1,FASHION
-http://217.199.128.114:4022/udp/235.255.1.41:5304
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://217.199.128.114:4022/udp/235.255.1.42:5314
-#EXTINF:-1,NAT GEO WILD
-http://217.199.128.114:4022/udp/235.255.1.43:5324
-
-#EXTINF:-1,TRAVEL CHANNEL
-http://217.199.128.114:4022/udp/235.255.1.47:5344
-
-#EXTINF:-1,DISCOVERY
-http://217.199.128.114:4022/udp/235.255.1.49:5364
-#EXTINF:-1,EUROSPORT
-http://217.199.128.114:4022/udp/235.255.1.50:5374
-#EXTINF:-1,EUROSPORT 2
-http://217.199.128.114:4022/udp/235.255.1.51:5384
-#EXTINF:-1,SK 1
-http://217.199.128.114:4022/udp/235.255.1.52:5394
-#EXTINF:-1,ANIMAL PLANET
-http://217.199.128.114:4022/udp/235.255.1.53:5404
-#EXTINF:-1,FOX LIFE
-http://217.199.128.114:4022/udp/235.255.1.54:5414
-#EXTINF:-1,FOX CRIME
-http://217.199.128.114:4022/udp/235.255.1.55:5424
-#EXTINF:-1,TV1000
-http://217.199.128.114:4022/udp/235.255.1.56:5434
-#EXTINF:-1,CBS DRAMA
-http://217.199.128.114:4022/udp/235.255.1.57:5444
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://217.199.128.114:4022/udp/235.255.1.58:5454
-#EXTINF:-1,CARTOON NETWORK
-http://217.199.128.114:4022/udp/235.255.1.59:5464
 #EXTINF:-1,Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1,Dubai ONE
@@ -70,26 +38,6 @@ http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1,DW Arabia (Germany)
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-#EXTINF:-1,beinHD_Sports_HD1
-http://37.187.24.177:80/faker/faker/699.ch
-#EXTINF:-1,beinHD_Sports_HD2
-http://37.187.24.177:80/faker/faker/700.ch
-#EXTINF:-1,beinHD_Sports_HD3
-http://37.187.24.177:80/faker/faker/701.ch
-#EXTINF:-1,beinHD_Sports_HD4
-http://37.187.24.177:80/faker/faker/702.ch
-#EXTINF:-1,beinHD_Sports_HD5
-http://37.187.24.177:80/faker/faker/703.ch
-#EXTINF:-1,beinHD_Sports_HD6
-http://37.187.24.177:80/faker/faker/704.ch
-#EXTINF:-1,beinHD_Sports_HD7
-http://37.187.24.177:80/faker/faker/705.ch
-#EXTINF:-1,beinHD_Sports_HD8
-http://37.187.24.177:80/faker/faker/706.ch
-#EXTINF:-1,beinHD_Sports_HD9
-http://37.187.24.177:80/faker/faker/707.ch
-#EXTINF:-1,beinHD_Sports_HD10
-http://37.187.24.177:80/faker/faker/708.ch
 
 #EXTINF:-1,Alarabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8 
